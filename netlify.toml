@@ -1,0 +1,3 @@
+[build]
+  command = ""       # no build step needed
+  publish = "."      # "." means serve files from repo root
